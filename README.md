@@ -1,1 +1,2 @@
-This is a simple repo to familiarize myself with git commands!
+This is a simple repo to familiarize myself with git commands. q
+
